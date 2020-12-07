@@ -1,7 +1,7 @@
 
 ## Harjot Kaur Gill
 
-![Display picture](Photos/hk.jpg)
+![Display picture](Photos/HK.png)
 
 ## Qualification
 
